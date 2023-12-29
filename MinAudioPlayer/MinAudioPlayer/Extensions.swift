@@ -11,6 +11,6 @@ extension Color {
     static func rgb(r: Double, g: Double, b: Double) -> Color {
         return Color(red: r/255, green: g/255, blue: b/255)
     }
-    static let bgColor = Color.rgb(r: 56, g: 96, b: 137)
-    static let buColor = Color.rgb(r: 255, g: 181, b: 154)
+    static let bgColor = Color.rgb(r: 30, g: 49, b: 60)
+    static let buColor = Color.rgb(r: 255, g: 174, b: 144)
 }
